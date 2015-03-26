@@ -1,0 +1,8 @@
+Keys rebound in-game from the default profile:
+
+Decoupled Mode (Toggle)			Ctrl + 1
+G-Force Safety (Toggle)			Ctrl + 3
+Command Level Stability (Toggle)	Ctrl + 2
+Autoland Mode (Toggle)			Ctrl + n
+Landing Target Lock On (Toggle)		m
+Cycle Pinned Targets Back		Ctrl + u
